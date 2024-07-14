@@ -1,0 +1,23 @@
+{
+	"name": "genjak/vchasno-kasa",
+	"description": "PHP SDK for integration with kasa.vchasno.ua",
+	"type": "library",
+	"license": "MIT",
+	"authors": [
+	  {
+		 "name": "genjak",
+		 "email": "genjak@mail.com"
+	  }
+	],
+	"minimum-stability": "dev",
+	"require": {
+	  "guzzlehttp/guzzle": "^7.4",
+	  "php": "^8.1",
+		"larapack/dd": "1.*"
+	},
+	"autoload": {
+	  "psr-4": {
+		 "genjak\\" : "src"
+	  }
+	}
+ }

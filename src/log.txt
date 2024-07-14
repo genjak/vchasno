@@ -1,0 +1,3220 @@
+
+14.07.24 14:59
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '5622ca15be29c839017cc5f6b78983a6',
+   'dt' => '20240714145915',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 33,
+     'doccode' => 'TEST_8xGHGlkcok0rIQ',
+     'dt' => '20240714145915',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 0.0,
+     'shift_link' => 9,
+     'docno' => 15,
+     'cancelid' => 'TEST_8xGHGlkcok0rIQ',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_8xGHGlkcok0rIQ?id=TEST_8xGHGlkcok0rIQ&date=20240714&time=14:59:15&fn=9999992976012071&sm=100.00&mac=9234e402aa0603a08e98926ecb2c6f8e1e3f9dbf674f8de02e799da5497fb991',
+  ),
+   'error_extra' => NULL,
+)
+NULL
+14.07.24 14:59
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 100,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '2',
+          'name' => 'name2',
+          'cnt' => 1,
+          'price' => 100,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '2',
+          'sum' => 100,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '5cbd7822912c3592365c6d1aef7e4cb2',
+   'dt' => '20240714145934',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 34,
+     'doccode' => 'TEST_A2trl9sIH1gfEQ',
+     'dt' => '20240714145934',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 0.0,
+     'shift_link' => 9,
+     'docno' => 16,
+     'cancelid' => 'TEST_A2trl9sIH1gfEQ',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_A2trl9sIH1gfEQ?id=TEST_A2trl9sIH1gfEQ&date=20240714&time=14:59:34&fn=9999992976012071&sm=100.00&mac=685a83700d1bf54dccc0040f04ebad517e6c526b0993809cf8a109ad76c559ff',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 15:00
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 100,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '2',
+          'name' => 'name2',
+          'cnt' => 1,
+          'price' => 100,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '2',
+          'sum' => 100,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'fa57aa4f46ed39b59b5eb92f9fccbd8f',
+   'dt' => '20240714150020',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 35,
+     'doccode' => 'TEST_fK8cGrpTe92WCw',
+     'dt' => '20240714150020',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 0.0,
+     'shift_link' => 9,
+     'docno' => 17,
+     'cancelid' => 'TEST_fK8cGrpTe92WCw',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_fK8cGrpTe92WCw?id=TEST_fK8cGrpTe92WCw&date=20240714&time=15:00:20&fn=9999992976012071&sm=100.00&mac=c376e06b08577b830000d8627016218446eeb4e0a47f68fad506d90f9e51748a',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 16:09
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1150,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => NULL,
+          'price' => '1150',
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1150,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '35698ac0618bc55aad725057c08d8e48',
+   'dt' => '20240714160957',
+   'res' => 1001,
+   'res_action' => 3,
+   'errortxt' => 'Помилка при перевірці даних',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+  ),
+   'error_extra' => 
+  (object) array(
+     'errors' => 
+    (object) array(
+       'fiscal' => 
+      (object) array(
+         'receipt' => 
+        (object) array(
+           'rows' => 
+          (object) array(
+             '0' => 
+            (object) array(
+               'cnt' => 'value is not float',
+               'price' => 'value is not float',
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+)
+14.07.24 16:12
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1150,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => '1',
+          'price' => '1150',
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1150,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '7b620b820ea11b9968f667c35195bc4e',
+   'dt' => '20240714161209',
+   'res' => 1001,
+   'res_action' => 3,
+   'errortxt' => 'Помилка при перевірці даних',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+  ),
+   'error_extra' => 
+  (object) array(
+     'errors' => 
+    (object) array(
+       'fiscal' => 
+      (object) array(
+         'receipt' => 
+        (object) array(
+           'rows' => 
+          (object) array(
+             '0' => 
+            (object) array(
+               'cnt' => 'value is not float',
+               'price' => 'value is not float',
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+)
+14.07.24 16:12
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1150,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => '1',
+          'price' => '1150',
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1150,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '4e2548b81c8d74718d2444361e3fa39c',
+   'dt' => '20240714161218',
+   'res' => 1001,
+   'res_action' => 3,
+   'errortxt' => 'Помилка при перевірці даних',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+  ),
+   'error_extra' => 
+  (object) array(
+     'errors' => 
+    (object) array(
+       'fiscal' => 
+      (object) array(
+         'receipt' => 
+        (object) array(
+           'rows' => 
+          (object) array(
+             '0' => 
+            (object) array(
+               'cnt' => 'value is not float',
+               'price' => 'value is not float',
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+)
+14.07.24 16:13
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1150,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => '1',
+          'price' => '1150',
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1150,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'a504df765091578d9de8095ba684512f',
+   'dt' => '20240714161324',
+   'res' => 1001,
+   'res_action' => 3,
+   'errortxt' => 'Помилка при перевірці даних',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+  ),
+   'error_extra' => 
+  (object) array(
+     'errors' => 
+    (object) array(
+       'fiscal' => 
+      (object) array(
+         'receipt' => 
+        (object) array(
+           'rows' => 
+          (object) array(
+             '0' => 
+            (object) array(
+               'cnt' => 'value is not float',
+               'price' => 'value is not float',
+            ),
+          ),
+        ),
+      ),
+    ),
+  ),
+)
+14.07.24 16:13
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1150,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1150,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '2e3c860de9b15074465d3fdb17143212',
+   'dt' => '20240714161347',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 36,
+     'doccode' => 'TEST_yOmr0ONcPLov0g',
+     'dt' => '20240714161347',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 0.0,
+     'shift_link' => 9,
+     'docno' => 18,
+     'cancelid' => 'TEST_yOmr0ONcPLov0g',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_yOmr0ONcPLov0g?id=TEST_yOmr0ONcPLov0g&date=20240714&time=16:13:47&fn=9999992976012071&sm=1150.00&mac=ce15493453e4424990f60cf7e87eaa59313f818c6ec8af41309858b42405679a',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 16:14
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1150,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '0',
+          'sum' => 1150,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '96d7e8b2e38cd114dd9885f763dfa002',
+   'dt' => '20240714161424',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 37,
+     'doccode' => 'TEST_TNk1_lF41QKV0Q',
+     'dt' => '20240714161424',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 19,
+     'cancelid' => 'TEST_TNk1_lF41QKV0Q',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_TNk1_lF41QKV0Q?id=TEST_TNk1_lF41QKV0Q&date=20240714&time=16:14:24&fn=9999992976012071&sm=1150.00&mac=54d7e924ae68c2d42024d469b4b1d12470aaad7af7c1aa0baea5ed388d794e54',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 16:14
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1150,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '2',
+          'sum' => 1150,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '5c461d1cf46a6ceb54a33dd70e42454b',
+   'dt' => '20240714161437',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 38,
+     'doccode' => 'TEST_bUGTvWZMftUJCQ',
+     'dt' => '20240714161437',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 20,
+     'cancelid' => 'TEST_bUGTvWZMftUJCQ',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_bUGTvWZMftUJCQ?id=TEST_bUGTvWZMftUJCQ&date=20240714&time=16:14:37&fn=9999992976012071&sm=1150.00&mac=c45956966e248e7546a789499a47e6365d49ffd61e177c45aa4da5f20cb9b569',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 16:23
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'c700d2a9aa93c1ed6bd672a947537ae0',
+   'dt' => '20240714162355',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 39,
+     'doccode' => 'TEST_iDUCMh7nb9Gd2g',
+     'dt' => '20240714162355',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 21,
+     'cancelid' => 'TEST_iDUCMh7nb9Gd2g',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_iDUCMh7nb9Gd2g?id=TEST_iDUCMh7nb9Gd2g&date=20240714&time=16:23:55&fn=9999992976012071&sm=1350.00&mac=a6e7407e8cf281820f125285c9d2b3f7c742e5cdb4529f1bb14c44c2a47c9f59',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 16:24
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '2',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '7711b3f470a57bda5492c6d92b74c7a2',
+   'dt' => '20240714162451',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 40,
+     'doccode' => 'TEST_2lorJ1XzwXIqcg',
+     'dt' => '20240714162451',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 22,
+     'cancelid' => 'TEST_2lorJ1XzwXIqcg',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_2lorJ1XzwXIqcg?id=TEST_2lorJ1XzwXIqcg&date=20240714&time=16:24:51&fn=9999992976012071&sm=1350.00&mac=077a688bbf835e37ffea86439cd06e4d997489ebd8e3658111f5c87d0f3ca50e',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 16:25
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '3560808778f0c0b6ffdda8fcc85cecae',
+   'dt' => '20240714162555',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 41,
+     'doccode' => 'TEST_aJ6OmI6Pf5pAFg',
+     'dt' => '20240714162555',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 23,
+     'cancelid' => 'TEST_aJ6OmI6Pf5pAFg',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_aJ6OmI6Pf5pAFg?id=TEST_aJ6OmI6Pf5pAFg&date=20240714&time=16:25:55&fn=9999992976012071&sm=1350.00&mac=f26c0e79a84f76b834241132c2e9a05f1faf29cb0506a3d8a816ee157257a495',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 16:36
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'b3fec19fecbdf92b93004efa027263c9',
+   'dt' => '20240714163636',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 42,
+     'doccode' => 'TEST_f_EAU2g7ZggarQ',
+     'dt' => '20240714163636',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 24,
+     'cancelid' => 'TEST_f_EAU2g7ZggarQ',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_f_EAU2g7ZggarQ?id=TEST_f_EAU2g7ZggarQ&date=20240714&time=16:36:36&fn=9999992976012071&sm=1350.00&mac=d427a9bf34e73290cd66a029212e8f58c7796c09e1dd8960ece97298ed59a317',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 16:37
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '653ca78e5d4e8594443379df2193fa99',
+   'dt' => '20240714163704',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 43,
+     'doccode' => 'TEST_VfMH_384NzmnZw',
+     'dt' => '20240714163704',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 25,
+     'cancelid' => 'TEST_VfMH_384NzmnZw',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_VfMH_384NzmnZw?id=TEST_VfMH_384NzmnZw&date=20240714&time=16:37:04&fn=9999992976012071&sm=1350.00&mac=11505d8ddc136b08718a1ab26575581d2dd7f1218a3b4e32f279c42e07065fa1',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 16:40
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1230,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Вітровики - дефлектори вікон для автомобіля виробник Sun Visors',
+          'cnt' => 1,
+          'price' => 1230,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1230,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'aad9cdef9d33866e88adacce157d3994',
+   'dt' => '20240714164009',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 44,
+     'doccode' => 'TEST_HeZ0YXloDGU2fg',
+     'dt' => '20240714164009',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 26,
+     'cancelid' => 'TEST_HeZ0YXloDGU2fg',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_HeZ0YXloDGU2fg?id=TEST_HeZ0YXloDGU2fg&date=20240714&time=16:40:09&fn=9999992976012071&sm=1230.00&mac=e3394d19d827357470ea283e1a9f6f7b9a44a0781c893a2f81c3c6d1680102a5',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 16:40
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '2',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'f151a7d1bb2f4ef8212128da21979047',
+   'dt' => '20240714164031',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 45,
+     'doccode' => 'TEST_l_B1RtRuTuAM3A',
+     'dt' => '20240714164031',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 27,
+     'cancelid' => 'TEST_l_B1RtRuTuAM3A',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_l_B1RtRuTuAM3A?id=TEST_l_B1RtRuTuAM3A&date=20240714&time=16:40:31&fn=9999992976012071&sm=1350.00&mac=54fa9614bf8c5d22692868ee0aa5d7bd54a45a3da68d5b4f6733217531e0c58d',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 16:40
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1230,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Вітровики - дефлектори вікон для автомобіля виробник Sun Visors',
+          'cnt' => 1,
+          'price' => 1230,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1230,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '33cd0458005b44d27f6afaeedefcfa37',
+   'dt' => '20240714164049',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 46,
+     'doccode' => 'TEST_ksXhbSCy_n8t6w',
+     'dt' => '20240714164049',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 28,
+     'cancelid' => 'TEST_ksXhbSCy_n8t6w',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_ksXhbSCy_n8t6w?id=TEST_ksXhbSCy_n8t6w&date=20240714&time=16:40:49&fn=9999992976012071&sm=1230.00&mac=6e400f1699f01b7d66509df5698cf6207e67ef2fcc69b34e693989575ee12dfd',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 16:42
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '4918dddae46dd3f116edf94fd54a68c7',
+   'dt' => '20240714164223',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 47,
+     'doccode' => 'TEST_nk9hlmDdD4Jj_w',
+     'dt' => '20240714164223',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 29,
+     'cancelid' => 'TEST_nk9hlmDdD4Jj_w',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_nk9hlmDdD4Jj_w?id=TEST_nk9hlmDdD4Jj_w&date=20240714&time=16:42:23&fn=9999992976012071&sm=1350.00&mac=3c11572505b13c1b6dae5bbf76a3223f63e10354a461571ab516e2ec552e8245',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 16:43
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1075,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник STINGRAY',
+          'cnt' => 1,
+          'price' => 1075,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1075,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '5362fe8ea9a053fbbcdf7aeba575685e',
+   'dt' => '20240714164329',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 48,
+     'doccode' => 'TEST_RuMoDsA_CnIEVg',
+     'dt' => '20240714164329',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 30,
+     'cancelid' => 'TEST_RuMoDsA_CnIEVg',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_RuMoDsA_CnIEVg?id=TEST_RuMoDsA_CnIEVg&date=20240714&time=16:43:29&fn=9999992976012071&sm=1075.00&mac=00aeb94f58136c928b9a9212c87c66ed2efc7d0bf429b85862c3137e262291e1',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:02
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'b9201235c185c7446d54a2e4c523a61d',
+   'dt' => '20240714170230',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 49,
+     'doccode' => 'TEST_UNAHHLt_8QP_4A',
+     'dt' => '20240714170230',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 31,
+     'cancelid' => 'TEST_UNAHHLt_8QP_4A',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_UNAHHLt_8QP_4A?id=TEST_UNAHHLt_8QP_4A&date=20240714&time=17:02:30&fn=9999992976012071&sm=1350.00&mac=188cddd08795a86030db3cb2f8979855a29468080efcca8096eae9c01badc28b',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:13
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'a3db6e02666696ad1afed56421095bb9',
+   'dt' => '20240714171319',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 50,
+     'doccode' => 'TEST_LdieK26zZSSOWA',
+     'dt' => '20240714171319',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 32,
+     'cancelid' => 'TEST_LdieK26zZSSOWA',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_LdieK26zZSSOWA?id=TEST_LdieK26zZSSOWA&date=20240714&time=17:13:19&fn=9999992976012071&sm=1350.00&mac=1ed32787c45b5e39b3a50871ef03ca91c720eb1497892d081ca0f5b1ff639692',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:17
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'c458e608d9322e0d1403eea963618dd5',
+   'dt' => '20240714171716',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 51,
+     'doccode' => 'TEST_Ro1Zi69Sp7FSZg',
+     'dt' => '20240714171716',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 33,
+     'cancelid' => 'TEST_Ro1Zi69Sp7FSZg',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_Ro1Zi69Sp7FSZg?id=TEST_Ro1Zi69Sp7FSZg&date=20240714&time=17:17:16&fn=9999992976012071&sm=1350.00&mac=05c7e0f8ab2762a3afaa513575e2ef5cec1becf4902afe37ea1be45e43b53569',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:19
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '4a3734cc51473e1a43ab452b76798dca',
+   'dt' => '20240714171929',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 52,
+     'doccode' => 'TEST_8eAa5uAXh6VMoA',
+     'dt' => '20240714171929',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 34,
+     'cancelid' => 'TEST_8eAa5uAXh6VMoA',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_8eAa5uAXh6VMoA?id=TEST_8eAa5uAXh6VMoA&date=20240714&time=17:19:29&fn=9999992976012071&sm=1350.00&mac=b8fca4a0a0eda0aebb7963de65a945b06f94c1023311635792c9095185726bdd',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:26
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'fb80b3da7b1f5ba1f9f37c0196d76b4a',
+   'dt' => '20240714172610',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 53,
+     'doccode' => 'TEST_PZ1YIg1JAcQS1Q',
+     'dt' => '20240714172610',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 35,
+     'cancelid' => 'TEST_PZ1YIg1JAcQS1Q',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_PZ1YIg1JAcQS1Q?id=TEST_PZ1YIg1JAcQS1Q&date=20240714&time=17:26:10&fn=9999992976012071&sm=1350.00&mac=f263dad45417e0d4a3e2671b59f29420857937c619f19a0250a5582dcb89f495',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:28
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1230,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Вітровики - дефлектори вікон для автомобіля виробник Sun Visors',
+          'cnt' => 1,
+          'price' => 1230,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1230,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '9732195efe0a65ed3393be1bf3b6a549',
+   'dt' => '20240714172810',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 54,
+     'doccode' => 'TEST__lfi4jCZuEiODA',
+     'dt' => '20240714172810',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 36,
+     'cancelid' => 'TEST__lfi4jCZuEiODA',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST__lfi4jCZuEiODA?id=TEST__lfi4jCZuEiODA&date=20240714&time=17:28:10&fn=9999992976012071&sm=1230.00&mac=9e6af032202cdfe0bbd52ec3a576079333b096db2f3973c405664e348926a3ad',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:34
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1230,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Вітровики - дефлектори вікон для автомобіля виробник Sun Visors',
+          'cnt' => 1,
+          'price' => 1230,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1230,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '042c145300f4d4fdf029bc658b93bc7c',
+   'dt' => '20240714173425',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 55,
+     'doccode' => 'TEST_0hxwnpZCjTyXvQ',
+     'dt' => '20240714173425',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 37,
+     'cancelid' => 'TEST_0hxwnpZCjTyXvQ',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_0hxwnpZCjTyXvQ?id=TEST_0hxwnpZCjTyXvQ&date=20240714&time=17:34:25&fn=9999992976012071&sm=1230.00&mac=0d0a85feec8078224958f0436e1e92bf708fb03be405953e9910d7d19da600d2',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:37
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1230,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Вітровики - дефлектори вікон для автомобіля виробник Sun Visors',
+          'cnt' => 1,
+          'price' => 1230,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1230,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '5b1a1379683dc9f9942e55611d4289e6',
+   'dt' => '20240714173703',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 56,
+     'doccode' => 'TEST_tkolsTxcE4eSAQ',
+     'dt' => '20240714173703',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 38,
+     'cancelid' => 'TEST_tkolsTxcE4eSAQ',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_tkolsTxcE4eSAQ?id=TEST_tkolsTxcE4eSAQ&date=20240714&time=17:37:03&fn=9999992976012071&sm=1230.00&mac=f86d856700ef2595e49498725d3643c983c22934ed8d8318e67ab7035023efa6',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:39
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '806e6ed0cba869a3267d7db6d4c3517e',
+   'dt' => '20240714173923',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 57,
+     'doccode' => 'TEST_GySuA2nQhug9LA',
+     'dt' => '20240714173923',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 39,
+     'cancelid' => 'TEST_GySuA2nQhug9LA',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_GySuA2nQhug9LA?id=TEST_GySuA2nQhug9LA&date=20240714&time=17:39:23&fn=9999992976012071&sm=1350.00&mac=d4ba4c185faf3b3f11fefe334090a31a22df34c9b24ad6f7a98c88959e161770',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:40
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'd27753f1da0821a6ea13d2a6ea9a9666',
+   'dt' => '20240714174054',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 58,
+     'doccode' => 'TEST_edQpPXeB4UX8Ag',
+     'dt' => '20240714174054',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 40,
+     'cancelid' => 'TEST_edQpPXeB4UX8Ag',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_edQpPXeB4UX8Ag?id=TEST_edQpPXeB4UX8Ag&date=20240714&time=17:40:54&fn=9999992976012071&sm=1350.00&mac=0ca1440b786d8286ced748b3a82e5e845d5e2da16e8523d69cbffd9754e3ad8e',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:41
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '67991b4dcf7143d8df31c44092fbe8a1',
+   'dt' => '20240714174135',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 59,
+     'doccode' => 'TEST_ORvpoL8_JYpTmQ',
+     'dt' => '20240714174135',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 41,
+     'cancelid' => 'TEST_ORvpoL8_JYpTmQ',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_ORvpoL8_JYpTmQ?id=TEST_ORvpoL8_JYpTmQ&date=20240714&time=17:41:35&fn=9999992976012071&sm=1350.00&mac=5432fd96afdbb99ca0e72bcdcb66c217a32d037069d88aa5b5291bb2e1624942',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:42
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'b94ecd7bb287afe7690e38c8595ceaa7',
+   'dt' => '20240714174239',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 60,
+     'doccode' => 'TEST_3LOrgfC7NMpRyA',
+     'dt' => '20240714174239',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 42,
+     'cancelid' => 'TEST_3LOrgfC7NMpRyA',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_3LOrgfC7NMpRyA?id=TEST_3LOrgfC7NMpRyA&date=20240714&time=17:42:39&fn=9999992976012071&sm=1350.00&mac=cf5a3d90ac72fbfcfc0fe5322902b92b4140a10aed5f034f7c1f5d1239603fae',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:45
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '730bbb9fb51690f734d8d78faa98d4b7',
+   'dt' => '20240714174503',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 61,
+     'doccode' => 'TEST_NQ_rlFQSck7Ddw',
+     'dt' => '20240714174503',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 43,
+     'cancelid' => 'TEST_NQ_rlFQSck7Ddw',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_NQ_rlFQSck7Ddw?id=TEST_NQ_rlFQSck7Ddw&date=20240714&time=17:45:03&fn=9999992976012071&sm=1350.00&mac=90d537d536251e19b9fb88d1f67bf9750edcbc3784280d86005429def46733e9',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:46
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'ce629e5f16bab5160d007caac4f7bb3a',
+   'dt' => '20240714174611',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 62,
+     'doccode' => 'TEST_FoqdLa7d3mGVwQ',
+     'dt' => '20240714174611',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 44,
+     'cancelid' => 'TEST_FoqdLa7d3mGVwQ',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_FoqdLa7d3mGVwQ?id=TEST_FoqdLa7d3mGVwQ&date=20240714&time=17:46:11&fn=9999992976012071&sm=1350.00&mac=91185557e89115ef6fd32645475f82a2f14be00c79286446b6145604ae13ab37',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:46
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '613076c9fce36119e014b999f683dd3c',
+   'dt' => '20240714174640',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 63,
+     'doccode' => 'TEST_JgnsMzQCEZLAAQ',
+     'dt' => '20240714174640',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 45,
+     'cancelid' => 'TEST_JgnsMzQCEZLAAQ',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_JgnsMzQCEZLAAQ?id=TEST_JgnsMzQCEZLAAQ&date=20240714&time=17:46:40&fn=9999992976012071&sm=1350.00&mac=570450f28abb95e2505dd2e46796461c16932d8fe4a8fe8e985e48aa219e74ad',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:50
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 687,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Бризковики для автомобіля виробник Xukey',
+          'cnt' => 1,
+          'price' => 687,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 687,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '927a95709d027d1428cdc4d2b41719df',
+   'dt' => '20240714175002',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 64,
+     'doccode' => 'TEST_h3Cr7S66qaycuw',
+     'dt' => '20240714175002',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 46,
+     'cancelid' => 'TEST_h3Cr7S66qaycuw',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_h3Cr7S66qaycuw?id=TEST_h3Cr7S66qaycuw&date=20240714&time=17:50:02&fn=9999992976012071&sm=687.00&mac=d1287c7089c1ddf7e94721e0e53ef7aa8f96a03d2ecc3e573a799ce32ddb9ea0',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:50
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1723,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки гумові до салону для автомобіля виробник STINGRAY',
+          'cnt' => 1,
+          'price' => 1723,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1723,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '9c98d375342723b69870c760c4092b3a',
+   'dt' => '20240714175052',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 65,
+     'doccode' => 'TEST_PSJitzZ5OClgxQ',
+     'dt' => '20240714175052',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 47,
+     'cancelid' => 'TEST_PSJitzZ5OClgxQ',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_PSJitzZ5OClgxQ?id=TEST_PSJitzZ5OClgxQ&date=20240714&time=17:50:52&fn=9999992976012071&sm=1723.00&mac=6f65fa69ddd0f7bcb02969d70c65ffcf5bf8e892f31533ca3cbf380a3c7fab55',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:51
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '719846f0088794b3f2b97779e7299782',
+   'dt' => '20240714175130',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 66,
+     'doccode' => 'TEST_mZmd0_g3iRR7BQ',
+     'dt' => '20240714175130',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 48,
+     'cancelid' => 'TEST_mZmd0_g3iRR7BQ',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_mZmd0_g3iRR7BQ?id=TEST_mZmd0_g3iRR7BQ&date=20240714&time=17:51:30&fn=9999992976012071&sm=1350.00&mac=2ed46684e7b621483e620b4842308d4c99b6428007fb532825072bdd823529ee',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:52
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '54c8c3c4bd4862322ff009a063997b2e',
+   'dt' => '20240714175218',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 67,
+     'doccode' => 'TEST_YnbLSNtqaRdIvg',
+     'dt' => '20240714175218',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 49,
+     'cancelid' => 'TEST_YnbLSNtqaRdIvg',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_YnbLSNtqaRdIvg?id=TEST_YnbLSNtqaRdIvg&date=20240714&time=17:52:18&fn=9999992976012071&sm=1350.00&mac=4c39be9d27a3ff8efeb49a90ecd0055de7f53d40d54593cb326b3b1f1d561b0d',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:52
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'de2cdb0a97a4a7a8c3048cad86eb584d',
+   'dt' => '20240714175240',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 68,
+     'doccode' => 'TEST_h_vSOaY9dqsL6w',
+     'dt' => '20240714175240',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 50,
+     'cancelid' => 'TEST_h_vSOaY9dqsL6w',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_h_vSOaY9dqsL6w?id=TEST_h_vSOaY9dqsL6w&date=20240714&time=17:52:40&fn=9999992976012071&sm=1350.00&mac=00d1303bc917369b3a580bc4da86c1939a82aa9caa335430bb4c3d778f170fd9',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:53
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '869499790866911a1ae8f19636fb53d3',
+   'dt' => '20240714175321',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 69,
+     'doccode' => 'TEST_ZYvxoCKVrt1Svg',
+     'dt' => '20240714175321',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 51,
+     'cancelid' => 'TEST_ZYvxoCKVrt1Svg',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_ZYvxoCKVrt1Svg?id=TEST_ZYvxoCKVrt1Svg&date=20240714&time=17:53:21&fn=9999992976012071&sm=1350.00&mac=8f575e70ab6838a39f71c6b310d47f9055076270f1399ecf3301dd77e4d21102',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:54
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1230,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Вітровики - дефлектори вікон для автомобіля виробник Sun Visors',
+          'cnt' => 1,
+          'price' => 1230,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1230,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'a193c9f9bd15042bb886ed2df22498f1',
+   'dt' => '20240714175442',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 70,
+     'doccode' => 'TEST_tNYooNlO9UtbJA',
+     'dt' => '20240714175442',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 52,
+     'cancelid' => 'TEST_tNYooNlO9UtbJA',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_tNYooNlO9UtbJA?id=TEST_tNYooNlO9UtbJA&date=20240714&time=17:54:42&fn=9999992976012071&sm=1230.00&mac=5ec14c50ffbd977d679d14751b9ea14412d60a5761b281ec5e2eebd4bf05bbc5',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 17:55
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 2626,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Бризковики для автомобіля виробник AVTM',
+          'cnt' => 1,
+          'price' => 2626,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 2626,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => 'b4882ac5aa66bfd99ce8a293fd44ae1f',
+   'dt' => '20240714175556',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 71,
+     'doccode' => 'TEST_I234ZeXRM6ffQw',
+     'dt' => '20240714175556',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 53,
+     'cancelid' => 'TEST_I234ZeXRM6ffQw',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_I234ZeXRM6ffQw?id=TEST_I234ZeXRM6ffQw&date=20240714&time=17:55:56&fn=9999992976012071&sm=2626.00&mac=a3246282bc85bc18e175db97cd1fafc91f9a33584bce2cce59a23a8964bc8328',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 18:33
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1350,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Килимки в багажник для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 1150,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+        1 => 
+        array (
+          'code' => '2',
+          'name' => 'Килимки в салон для автомобіля виробник AVTO-Gumm',
+          'cnt' => 1,
+          'price' => 200,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '4',
+          'sum' => 1350,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '2e60172a33ce65411408bc85381a4711',
+   'dt' => '20240714183326',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 73,
+     'doccode' => 'TEST_bAPWH4jQ9msGDA',
+     'dt' => '20240714183326',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 55,
+     'cancelid' => 'TEST_bAPWH4jQ9msGDA',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_bAPWH4jQ9msGDA?id=TEST_bAPWH4jQ9msGDA&date=20240714&time=18:33:26&fn=9999992976012071&sm=1350.00&mac=10d6d503897cba00c18c8a210ee700049851ccec5ea5b77d0795e3e9171e5f3b',
+  ),
+   'error_extra' => NULL,
+)
+14.07.24 18:37
+array (
+  'fiscal' => 
+  array (
+    'task' => 1,
+    'receipt' => 
+    array (
+      'sum' => 1230,
+      'comment_up' => '',
+      'comment_down' => '',
+      'rows' => 
+      array (
+        0 => 
+        array (
+          'code' => '1',
+          'name' => 'Вітровики - дефлектори вікон для автомобіля виробник Sun Visors',
+          'cnt' => 1,
+          'price' => 1230,
+          'disc' => 0,
+          'taxgrp' => 7,
+        ),
+      ),
+      'pays' => 
+      array (
+        0 => 
+        array (
+          'type' => '1',
+          'sum' => 1230,
+          'currency' => 'ГРН',
+        ),
+      ),
+    ),
+  ),
+)
+(object) array(
+   'task' => 1,
+   'type' => 1,
+   'ver' => 6,
+   'source' => '',
+   'device' => '9999992976012071',
+   'tag' => '09d551ac6a54f54fee2048f317b0fa19',
+   'dt' => '20240714183702',
+   'res' => 0,
+   'res_action' => 0,
+   'errortxt' => '',
+   'warnings' => 
+  array (
+  ),
+   'info' => 
+  (object) array(
+     'task' => 1,
+     'fisid' => '9999992976012071',
+     'dataid' => 74,
+     'doccode' => 'TEST_pE5SHsbbhn21Lw',
+     'dt' => '20240714183702',
+     'cashier' => '',
+     'dtype' => 0,
+     'isprint' => 0,
+     'isoffline' => false,
+     'safe' => 1150.0,
+     'shift_link' => 9,
+     'docno' => 56,
+     'cancelid' => 'TEST_pE5SHsbbhn21Lw',
+     'qr' => 'https://kasa.vchasno.ua/c/TEST_pE5SHsbbhn21Lw?id=TEST_pE5SHsbbhn21Lw&date=20240714&time=18:37:02&fn=9999992976012071&sm=1230.00&mac=1c2ddb328aefe6378173915e899a7e99bd9f102cfc9e1ebd4b52b71e93f177a1',
+  ),
+   'error_extra' => NULL,
+)
